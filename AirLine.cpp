@@ -5,13 +5,25 @@ using namespace std;
 
 class Passengers
 {
+    public:
+    
+    private:
+
 
 };
 class Flights
 {
+    public:
+
+    private:
+
 
 };
-class Reservatios
+class Reservation
 {
+    public:
 
+    private:
+
+    
 };
