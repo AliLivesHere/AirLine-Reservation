@@ -4,26 +4,27 @@
 using namespace std;
 
 class Passengers
-{
-    public:
-    
+{   
     private:
 
+    public:
 
 };
 class Flights
 {
-    public:
-
     private:
+
+
+    public:
 
 
 };
 class Reservation
 {
-    public:
-
     private:
+
+
+    public:
 
     
 };
